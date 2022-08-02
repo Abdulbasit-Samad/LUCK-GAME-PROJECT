@@ -1,0 +1,54 @@
+
+
+ >>>>>>>>>>> ABDUL BASIT'S RECORD <<<<<<<<<<<<<<
+
+TURN # 1
+
+=========
+
+
+TOOK 1.000000 SEC TO DECIDE
+
+SELECTED BOX : 4
+
+BOX 4 CONTAINED : 1545 (cash)
+
+TURN # 2
+
+=========
+
+
+TOOK 5.000000 SEC TO DECIDE
+
+SELECTED BOX : 2
+
+BOX 2 CONTAINED : 2353 (cash)
+
+TURN # 3
+
+=========
+
+
+TOOK 4.000000 SEC TO DECIDE
+
+SELECTED BOX : 6
+
+BOX 6 CONTAINED : 670 (cash)
+
+TURN # 4
+
+=========
+
+
+TOOK 2.000000 SEC TO DECIDE
+
+SELECTED BOX : 1
+
+BOX 1 CONTAINED : 2427 (cash)
+
+__________________________________________________
+
+      TOTAL: 6995
+
+__________________________________________________
+

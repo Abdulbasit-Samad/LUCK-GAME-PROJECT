@@ -1,0 +1,56 @@
+
+
+ >>>>>>>>>>> TALHA SHAIKH'S RECORD <<<<<<<<<<<<<<
+
+TURN # 1
+
+=========
+
+
+TOOK 1.000000 SEC TO DECIDE
+
+SELECTED BOX : 7
+
+BOX 7 CONTAINED : 1908 (cash)
+
+TURN # 2
+
+=========
+
+
+TOOK 1.000000 SEC TO DECIDE
+
+SELECTED BOX : 3
+
+BOX 3 CONTAINED : 197 (cash)
+
+TURN # 3
+
+=========
+
+
+TOOK 2.000000 SEC TO DECIDE
+
+SELECTED BOX : 5
+
+BOX 5 CONTAINED : 471 (cash)
+
+TURN # 4
+
+=========
+
+
+TOOK 2.000000 SEC TO DECIDE
+
+SELECTED BOX : 8
+
+BOX 8 CONTAINED : 987 (cash)
+
+
+
+__________________________________________________
+
+      TOTAL: 3563
+
+__________________________________________________
+
